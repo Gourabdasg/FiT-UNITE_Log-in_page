@@ -2,6 +2,39 @@
 
 A new Flutter project.
 
+Fit Unite – Fitness App Login & Sign-Up UI
+Fit Unite is a Flutter-based fitness application designed to encourage users to stay fit by engaging in daily challenges and earning rewards.
+This repository contains the authentication UI screens for logging in, signing up, and creating accounts with a modern, gym-inspired interface.
+
+✨ Features
+Welcome & Login Screen
+
+Email & password fields
+
+Sign in with Google option
+
+Forgot password link
+
+Sign-Up Screen
+
+User details form (Name, Phone Number, Gender, Birthday)
+
+Submit button with a clean design
+
+Attractive UI
+
+Full-screen gym-themed background images
+
+Custom fonts and color themes for an energetic look
+
+🛠 Tech Stack
+Framework: Flutter
+
+Language: Dart
+
+IDE: Android Studio / VS Code
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
